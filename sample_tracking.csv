@@ -1,0 +1,6 @@
+source,campaign,influencer_id,user_id,product,date,orders,revenue
+instagram,MuscleBlaze_Q1,1,user_001,Whey Protein,2024-01-16,1,2500
+instagram,HKVitals_Jan,2,user_002,Multivitamin,2024-01-19,2,1800
+youtube,MuscleBlaze_Q1,2,user_003,Whey Protein,2024-01-26,1,2500
+youtube,HKVitals_Jan,3,user_004,BCAA,2024-01-23,3,4200
+instagram,Gritzo_Launch,3,user_005,Kids Nutrition,2024-01-23,1,3200
