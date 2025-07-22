@@ -4,8 +4,7 @@ A comprehensive Streamlit-based dashboard for tracking and analyzing influencer 
 
 ## Live Demo
 
-[Click here to view the live dashboard](https://your-live-link.streamlit.app)  
-*(Replace with your actual Streamlit Share / deployed URL)*
+[Click here to view the live dashboard](https://trackerpro.streamlit.app/)  
 
 ---
 
