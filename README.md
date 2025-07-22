@@ -2,25 +2,14 @@
 
 A comprehensive Streamlit-based dashboard for tracking and analyzing influencer campaign performance, ROI, and ROAS for HealthKart's multi-platform marketing initiatives.
 
-## 🔗 Live Demo
+## Live Demo
 
 [Click here to view the live dashboard](https://your-live-link.streamlit.app)  
 *(Replace with your actual Streamlit Share / deployed URL)*
 
 ---
 
-## Screenshots
 
-### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard_overview.png)
-
-### Campaign Insights
-![Campaign Insights](screenshots/campaign_insights.png)
-
-### Influencer Performance
-![Influencer Performance](screenshots/influencer_performance.png)
-
----
 
 ## Features
 
@@ -33,3 +22,21 @@ A comprehensive Streamlit-based dashboard for tracking and analyzing influencer 
 - **Payout Management**: Track and manage influencer payments based on posts or orders
 - **Export Functionality**: Generate CSV reports and PDF insights
 - **Advanced Filtering**: Filter data by brand, product, influencer type, platform, and date range
+
+---
+
+## Screenshots
+
+### Dashboard
+![Dashboard Overview](screenshots\img2.png)
+
+### Insights
+![Campaign Insights](screenshots\img3.png)
+
+### Payouts
+![Influencer Performance](screenshots\img4.png)
+
+---
+
+
+
