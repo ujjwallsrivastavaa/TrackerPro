@@ -677,10 +677,10 @@ def show_database_management_page():
             try:
                 # Load sample CSV files we created
                 
-                influencers_df = pd.read_csv("sample_influencers.csv")
-                posts_df = pd.read_csv("sample_posts.csv") 
-                tracking_df = pd.read_csv("sample_tracking.csv")
-                payouts_df = pd.read_csv("sample_payouts.csv")
+                influencers_df = pd.read_csv("sample data/sample_influencers.csv")
+                posts_df = pd.read_csv("sample data/sample_posts.csv") 
+                tracking_df = pd.read_csv("sample data/sample_tracking.csv")
+                payouts_df = pd.read_csv("sample data/sample_payouts.csv")
                 
                 # Save to database
                 success1 = data_manager.save_influencers_to_db(influencers_df)
