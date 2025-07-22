@@ -28,13 +28,13 @@ A comprehensive Streamlit-based dashboard for tracking and analyzing influencer 
 ## Screenshots
 
 ### Dashboard
-![Dashboard Overview](screenshots\img2.png)
+![Dashboard Overview](screenshots/img2.png)
 
 ### Insights
-![Campaign Insights](screenshots\img3.png)
+![Campaign Insights](screenshots/img3.png)
 
 ### Payouts
-![Influencer Performance](screenshots\img4.png)
+![Influencer Performance](screenshots/img4.png)
 
 ---
 
